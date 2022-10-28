@@ -1,0 +1,1 @@
+Dockerfile for https://django-pyas2.readthedocs.io application
